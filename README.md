@@ -44,7 +44,7 @@ Este bot foi desenvolvido para automatizar a busca de anúncios na OLX Brasil. E
 
 1. Clone o repositório:
 ```bash
-git clone [url-do-repositorio]
+git clone https://github.com/aeusteixeira/OLXBot.git
 ```
 
 2. Instale as dependências:
